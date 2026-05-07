@@ -1,0 +1,6 @@
+@Progra4_dotnet_test_HostAddress = http://localhost:5115
+
+GET {{Progra4_dotnet_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
